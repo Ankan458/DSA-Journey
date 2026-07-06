@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Ankan458/DSA-Journey/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -24,9 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankan458/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
