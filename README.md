@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Ankan458/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Ankan458/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
