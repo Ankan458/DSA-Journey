@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ankan458/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ankan458/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Ankan458/DSA-Journey/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ankan458/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Ankan458/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
 ## Math
