@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ankan458/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ankan458/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/Ankan458/DSA-Journey/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ankan458/DSA-Journey/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Ankan458/DSA-Journey/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/Ankan458/DSA-Journey/tree/master/2235-add-two-integers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ankan458/DSA-Journey/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ankan458/DSA-Journey/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ankan458/DSA-Journey/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
