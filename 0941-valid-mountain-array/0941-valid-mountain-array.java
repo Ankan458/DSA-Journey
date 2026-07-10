@@ -1,14 +1,17 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
-        if(arr.length < 3) return false;
+        int n = arr.length;
 
-        int left = 0;
-        int right = arr.length - 1;
+        if(n < 3) return false;
 
-        while(left + 1 < right && arr[left] < arr[left + 1]) left++;
+        int i = 0;
 
-        while(right - 1 > 0 && arr[right] < arr[right - 1]) right--;
+        while(i < n - 1 && arr[i] < arr[i + 1]) i++;
+        
+        if(i == 0 || i == n - 1) return false;
 
-        return left == right;
+        while(i < n - 1 && arr[i] > arr[i + 1]) i++;
+
+        return i == n - 1;
     }
 }
