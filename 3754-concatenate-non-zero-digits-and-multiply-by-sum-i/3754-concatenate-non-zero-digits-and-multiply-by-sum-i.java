@@ -13,9 +13,12 @@ class Solution {
         if(n == 0) return 0;
 
         int x = 0;
+        int sum = 0;
 
         while(n != 0) {
             int digit = n % 10;
+            
+            sum += digit;
 
             if(digit != 0) {
                 x = (x * 10) + digit;
@@ -25,14 +28,6 @@ class Solution {
         }
 
         x = reverse(x);
-
-        int sum = 0;
-        int temp = x;
-
-        while (temp != 0) {
-            sum += temp % 10;
-            temp /= 10;
-        }
 
         return (long) x * sum;
     }
