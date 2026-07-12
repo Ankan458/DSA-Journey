@@ -1,15 +1,12 @@
 class Solution {
     public int secondsBetweenTimes(String startTime, String endTime) {
-        String[] start = startTime.split(":");
-        String[] end = endTime.split(":");
+        int startSecond = Integer.parseInt(startTime.substring(0, 2)) * 3600 +
+                          Integer.parseInt(startTime.substring(3, 5)) * 60 +
+                          Integer.parseInt(startTime.substring(6, 8));
 
-        int startSecond = Integer.parseInt(start[0]) * 3600 +
-                          Integer.parseInt(start[1]) * 60 +
-                          Integer.parseInt(start[2]);
-
-        int endSecond = Integer.parseInt(end[0]) * 3600 +
-                          Integer.parseInt(end[1]) * 60 +
-                          Integer.parseInt(end[2]);
+        int endSecond = Integer.parseInt(endTime.substring(0, 2)) * 3600 +
+                          Integer.parseInt(endTime.substring(3, 5)) * 60 +
+                          Integer.parseInt(endTime.substring(6, 8));
 
         return endSecond - startSecond;
     }
