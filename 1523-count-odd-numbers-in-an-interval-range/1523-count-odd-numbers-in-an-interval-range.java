@@ -6,6 +6,6 @@ class Solution {
             return n / 2 + 1;
         }
 
-        else return n / 2;
+        return n / 2;
     }
 }
