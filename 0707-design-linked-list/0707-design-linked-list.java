@@ -1,30 +1,30 @@
-class MyLinkedList {
-    class Node {
-        int val;
-        Node next;
+class Node {
+    int val;
+    Node next;
 
-        Node(int val, Node next) {
-            this.val = val;
-            this.next = next;
-        }
-
-        Node(int val) {
-            this(val, null);
-        }
+    Node(int val, Node next) {
+        this.val = val;
+        this.next = next;
     }
 
+    Node(int val) {
+        this(val, null);
+    }
+}
+
+class MyLinkedList {
     Node head;
     Node tail;
-    int NON;
+    int size;
 
     public MyLinkedList() {
         head = null;
         tail = null;
-        NON = 0;
+        size = 0;
     }
     
     public int get(int index) {
-        if(index < 0 || index >= NON || head == null) {
+        if(index < 0 || index >= size || head == null) {
             return -1;
         }
 
@@ -51,7 +51,7 @@ class MyLinkedList {
             head = newNode;
         }
 
-        NON++;
+        size++;
     }
     
     public void addAtTail(int val) {
@@ -66,19 +66,20 @@ class MyLinkedList {
             tail = newNode;
         }
 
-        NON++;
+        size++;
     }
     
     public void addAtIndex(int index, int val) {
-        if(index < 0 || index > NON) {
+        if(index < 0 || index > size) {
             return;
         }
 
         if(index == 0) {
             addAtHead(val);
+            return;
         }
 
-        if(index == NON) {
+        if(index == size) {
             addAtTail(val);
             return;
         }
@@ -92,26 +93,26 @@ class MyLinkedList {
 
         newNode.next = curr.next;
         curr.next = newNode;
-        NON++;
+        size++;
     }
     
     public void deleteAtIndex(int index) {
-        if(index < 0 || index >= NON || head == null) {
+        if(index < 0 || index >= size || head == null) {
             return;
         }
 
         else if(head == tail) {
             head = null;
             tail = null;
-            NON--;
+            size--;
         }
 
         else if(index == 0) {
             head = head.next;
-            NON--;
+            size--;
         }
 
-        else if(index == NON - 1) {
+        else if(index == size - 1) {
             Node curr = head;
 
             while(curr.next != tail) {
@@ -120,7 +121,7 @@ class MyLinkedList {
 
             curr.next = null;
             tail = curr;
-            NON--;
+            size--;
         }
 
         else {
@@ -131,7 +132,7 @@ class MyLinkedList {
             }
 
             curr.next = curr.next.next;
-            NON--;
+            size--;
         }
     }
 }
