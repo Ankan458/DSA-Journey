@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/Ankan458/DSA-Journey/tree/master/3895-count-digit-appearances) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Ankan458/DSA-Journey/tree/master/0707-design-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+## Sorting
+|  |
+| ------- |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 <!---LeetCode Topics End-->
