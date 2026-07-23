@@ -7,7 +7,7 @@ class Solution {
         long sum = 0;
 
         for(int i = high; i >= low; i--) {
-            sum += (long)nums[i] * (mul > 1 ? mul : 1);
+            sum += (long)nums[i] * Math.max(mul, 1);
             mul--;
         }
 
