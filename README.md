@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankan458/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Ankan458/DSA-Journey/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Ankan458/DSA-Journey/tree/master/0520-detect-capital) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ankan458/DSA-Journey/tree/master/0141-linked-list-cycle) |
+| [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ankan458/DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Design
 |  |
@@ -100,5 +102,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
