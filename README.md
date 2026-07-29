@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Ankan458/DSA-Journey/tree/master/0520-detect-capital) |
+| [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Ankan458/DSA-Journey/tree/master/3110-score-of-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ankan458/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankan458/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0941-valid-mountain-array](https://github.com/Ankan458/DSA-Journey/tree/master/0941-valid-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankan458/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ankan458/DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Design
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Bit Manipulation
 |  |
@@ -122,17 +126,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
