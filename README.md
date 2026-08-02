@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ankan458/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ankan458/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ankan458/DSA-Journey/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ankan458/DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ankan458/DSA-Journey/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankan458/DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankan458/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankan458/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
+| [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Ankan458/DSA-Journey/tree/master/0941-valid-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankan458/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ankan458/DSA-Journey/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
