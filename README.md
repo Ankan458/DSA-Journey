@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankan458/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Ankan458/DSA-Journey/tree/master/3895-count-digit-appearances) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Linked List
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3731-find-missing-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ankan458/DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Design
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
+| [3731-find-missing-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Bit Manipulation
 |  |
