@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2284-sender-with-largest-word-count](https://github.com/Ankan458/DSA-Journey/tree/master/2284-sender-with-largest-word-count) |
 | [3110-score-of-a-string](https://github.com/Ankan458/DSA-Journey/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ankan458/DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankan458/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankan458/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2284-sender-with-largest-word-count](https://github.com/Ankan458/DSA-Journey/tree/master/2284-sender-with-largest-word-count) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Ankan458/DSA-Journey/tree/master/3895-count-digit-appearances) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2284-sender-with-largest-word-count](https://github.com/Ankan458/DSA-Journey/tree/master/2284-sender-with-largest-word-count) |
 | [3731-find-missing-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ankan458/DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Design
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2284-sender-with-largest-word-count](https://github.com/Ankan458/DSA-Journey/tree/master/2284-sender-with-largest-word-count) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
