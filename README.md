@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ankan458/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankan458/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/Ankan458/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ankan458/DSA-Journey/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/Ankan458/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ankan458/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
