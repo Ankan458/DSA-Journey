@@ -87,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Ankan458/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankan458/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankan458/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Ankan458/DSA-Journey/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankan458/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Ankan458/DSA-Journey/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Memoization
 |  |
 | ------- |
