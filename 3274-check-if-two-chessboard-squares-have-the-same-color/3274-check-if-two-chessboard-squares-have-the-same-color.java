@@ -1,0 +1,11 @@
+class Solution {
+    public boolean checkTwoChessboards(String coordinate1, String coordinate2) {
+        int position1 = (coordinate1.charAt(0) - 'a') + 
+        (coordinate1.charAt(1) - '0');
+
+        int position2 = (coordinate2.charAt(0) - 'a') + 
+        (coordinate2.charAt(1) - '0');
+
+        return position1 % 2 == position2 % 2;
+    }
+}
