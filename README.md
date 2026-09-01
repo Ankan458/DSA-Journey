@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2284-sender-with-largest-word-count](https://github.com/Ankan458/DSA-Journey/tree/master/2284-sender-with-largest-word-count) |
 | [3110-score-of-a-string](https://github.com/Ankan458/DSA-Journey/tree/master/3110-score-of-a-string) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ankan458/DSA-Journey/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ankan458/DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Ankan458/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ankan458/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Ankan458/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ankan458/DSA-Journey/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankan458/DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/Ankan458/DSA-Journey/tree/master/3895-count-digit-appearances) |
