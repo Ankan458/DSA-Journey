@@ -3,26 +3,16 @@ class Solution {
         Map<String, List<String>> map = new HashMap<>();
 
         for(String word : strs) {
-            int[] freq = new int[26];
+            char[] characters = word.toCharArray();
+            Arrays.sort(characters);
 
-            for(char ch : word.toCharArray()) {
-                freq[ch - 'a']++;
+            String sortedWord = new String(characters);
+
+            if(!map.containsKey(sortedWord)) {
+                map.put(sortedWord, new ArrayList<>());
             }
 
-            StringBuilder temp = new StringBuilder();
-
-            for(int count : freq) {
-                temp.append('$');
-                temp.append(count);
-            }
-
-            String key = new String(temp);
-
-            if(!map.containsKey(key)) {
-                map.put(key, new ArrayList<>());
-            }
-
-            map.get(key).add(word);
+            map.get(sortedWord).add(word);
         }
 
         return new ArrayList<>(map.values());
