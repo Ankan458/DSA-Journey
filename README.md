@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankan458/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Ankan458/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ankan458/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ankan458/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Ankan458/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankan458/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ankan458/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ankan458/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ankan458/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankan458/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Ankan458/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ankan458/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
