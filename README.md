@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ankan458/DSA-Journey/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankan458/DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ankan458/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Ankan458/DSA-Journey/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/Ankan458/DSA-Journey/tree/master/2284-sender-with-largest-word-count) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ankan458/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Ankan458/DSA-Journey/tree/master/3895-count-digit-appearances) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ankan458/DSA-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
