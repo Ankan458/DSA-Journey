@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ankan458/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ankan458/DSA-Journey/tree/master/1025-divisor-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankan458/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankan458/DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankan458/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ankan458/DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankan458/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ankan458/DSA-Journey/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2235-add-two-integers](https://github.com/Ankan458/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ankan458/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Ankan458/DSA-Journey/tree/master/0941-valid-mountain-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankan458/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankan458/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankan458/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Ankan458/DSA-Journey/tree/master/0525-contiguous-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankan458/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Union-Find
 |  |
 | ------- |
