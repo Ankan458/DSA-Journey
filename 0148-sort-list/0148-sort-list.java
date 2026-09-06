@@ -10,10 +10,9 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head == null || head.next == null) return head;
+        if(head == null) return null;
 
         List<Integer> list = new ArrayList<>();
-
         ListNode temp = head;
 
         while(temp != null) {
@@ -23,6 +22,7 @@ class Solution {
         }
 
         list.sort(null);
+
         temp = head;
         int i = 0;
 
