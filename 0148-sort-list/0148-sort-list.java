@@ -17,7 +17,6 @@ class Solution {
 
         while(temp != null) {
             list.add(temp.val);
-
             temp = temp.next;
         }
 
