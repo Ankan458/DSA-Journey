@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ankan458/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ankan458/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Ankan458/DSA-Journey/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankan458/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Ankan458/DSA-Journey/tree/master/0941-valid-mountain-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ankan458/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankan458/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Ankan458/DSA-Journey/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankan458/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2284-sender-with-largest-word-count](https://github.com/Ankan458/DSA-Journey/tree/master/2284-sender-with-largest-word-count) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Ankan458/DSA-Journey/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankan458/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankan458/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Union-Find
 |  |
