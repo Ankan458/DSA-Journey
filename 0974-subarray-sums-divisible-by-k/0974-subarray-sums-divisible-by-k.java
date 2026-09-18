@@ -13,9 +13,7 @@ class Solution {
 
             if(mod < 0) mod += k;
 
-            if(map.containsKey(mod)) {
-                count += map.get(mod);
-            }
+            count += map.getOrDefault(mod, 0);
 
             map.put(mod, map.getOrDefault(mod, 0) + 1);
         }
