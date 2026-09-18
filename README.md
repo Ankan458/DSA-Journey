@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Ankan458/DSA-Journey/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Ankan458/DSA-Journey/tree/master/0941-valid-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankan458/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankan458/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ankan458/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ankan458/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankan458/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Ankan458/DSA-Journey/tree/master/0692-top-k-frequent-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ankan458/DSA-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2284-sender-with-largest-word-count](https://github.com/Ankan458/DSA-Journey/tree/master/2284-sender-with-largest-word-count) |
 | [3731-find-missing-elements](https://github.com/Ankan458/DSA-Journey/tree/master/3731-find-missing-elements) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Ankan458/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankan458/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankan458/DSA-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankan458/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Union-Find
 |  |
