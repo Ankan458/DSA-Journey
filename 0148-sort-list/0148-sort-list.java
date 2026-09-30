@@ -13,10 +13,12 @@ class Solution {
         if(head == null) return null;
 
         List<Integer> list = new ArrayList<>();
+
         ListNode temp = head;
 
         while(temp != null) {
             list.add(temp.val);
+
             temp = temp.next;
         }
 
@@ -28,8 +30,8 @@ class Solution {
         while(temp != null) {
             temp.val = list.get(i);
 
-            i++;
             temp = temp.next;
+            i++;
         }
 
         return head;
